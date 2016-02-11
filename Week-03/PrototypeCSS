@@ -1,0 +1,51 @@
+.Links{
+    font-size: 24px;
+    text-shadow: 1px 1px 1px #ccc;
+}
+.Links:hover{
+    color: #00ff21;
+    text-shadow: 1px 1px 1px #ccc;
+}
+
+body{
+    background-color: #8E4423;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.para{
+    background-color: #D3741C;
+}
+
+.Space{
+    border: 5px solid transparent;
+    
+}
+
+.Banner{
+    display: block;
+    float: left;
+    width: 100%; 
+    position: absolute;
+     top: 0;
+      left: 0   
+      
+}
+
+@font-face {
+     font-family: Blackadder; src: url('blackadder-itc.png'); 
+     
+}
+
+.HomePageText{
+    font-family: 'Blackadder ITC';
+    font-size: 40px;
+    background-color: #D3741C;
+    text-shadow: 1px 1px 1px #ccc;
+}
+
+.How{
+    font-size: 20px;
+}
+
