@@ -1,0 +1,28 @@
+Translation APIs
+
+What is an API?
+
+“An application program interface is a set of routines, protocols, and tools for building software applications.
+The API specifies how software components should interact and APIs are used when programming graphical user interface
+components. A good API makes it easier to develop a program by providing all the building blocks. A programmer then puts
+the blocks together.”
+-	From http://www.webopedia.com/TERM/A/API.html 
+-	Additional article http://www.computerworld.com/article/2593623/app-development/application-programming-interface.html 
+
+“Inside Google Translate” video - https://www.youtube.com/watch?v=_GdSC1Z1Kzs 
+
+Which API to get?
+
+Google
+Paid for. Quite cheap and you can set a limit on the number of translations to prevent abuse. Has 80 languages,
+more work but more variety. Supposedly better at Spanish and French. 
+Code examples - http://www.sitepoint.com/using-google-translate-api-php/
+Guide - https://cloud.google.com/translate/v2/getting_started
+Bing
+Free. As it is Microsoft it has MSDN (https://msdn.microsoft.com/en-us/library/ff512421.aspx) if you prefer it.
+Has 47 languages compared to Google, but are the missing languages important? This site (http://blog.linnworks.com/
+google-bing-translate) says that Bing is better.
+
+Code examples - https://code.google.com/archive/p/micrsoft-translator-php-wrapper/  
+  http://renjith.co.in/translate/# 
+Guide - http://blogs.msdn.com/b/translation/p/gettingstarted1.aspx
